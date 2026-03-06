@@ -1,0 +1,26 @@
+{
+  "name": "z-wealth Admin Dashboard",
+  "short_name": "z-wealth",
+  "description": "Admin panel for z-wealth",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#02040a",
+  "theme_color": "#02040a",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "icon-admin.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-admin.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
